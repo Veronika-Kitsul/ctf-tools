@@ -6,5 +6,11 @@
 
 ## Tools for CTFs
 
+### Broad tools
+
+- [CyberChef](https://gchq.github.io/CyberChef/) - it must have just about everything
+
+### Specific purpose tools
+
 - [VirusTotal](https://www.virustotal.com/gui/home/search) - Analyse suspicious files, domains, IPs and URLs to detect malware and other breaches
 - [MX Lookup](https://mxtoolbox.com/) - MX records for a domain
